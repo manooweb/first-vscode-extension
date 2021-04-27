@@ -17,7 +17,7 @@
 		"commands": [
 			{
 				"command": "first-extension.helloWorld",
-				"title": "Hello World"
+				"title": "First Extension"
 			}
 		]
 	},
